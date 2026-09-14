@@ -21,6 +21,14 @@ The Original Open-Source PR Reviewer
 
 ---
 
+> **Fork notice:** This repository is forked from
+> [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) and contains
+> personal modifications for self-hosted GitLab deployment and automation.
+>
+> **说明：** 本仓库 Fork 自
+> [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)，并根据个人的
+> GitLab 私有化部署及自动化使用场景做了一些调整。
+
  This repository contains the open-source PR Agent Project.
  It is not the Qodo offering for open-source projects.
 
